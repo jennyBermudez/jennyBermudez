@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm an collegiate Economist, specialized in business economics and data analysis. I consider myself a proactive and creative person. I am interested in the world of data analysis (Excel, Power Bi, Tableau, Python) and I am still training in this sector.
+I'm currently learning frontend development and I working on different projects for training it.
 
 <!--
 **jennyBermudez/jennyBermudez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
